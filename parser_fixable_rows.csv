@@ -1,0 +1,142 @@
+excel_row,img_path,gt_label,pred_label,fixed_pred
+56,/home/betty/datasets/locount_class_samples/locount_class_samples/Sauce/000043_Sauce_count_4.jpg,Sauce,- Sauce,Sauce
+79,/home/betty/datasets/locount_class_samples/locount_class_samples/Skin care set/000087_Skin care set_count_6.jpg,Skin care set,- Skin care set,Skin care set
+80,/home/betty/datasets/locount_class_samples/locount_class_samples/Toys/000204_Baby Toys_count_3.jpg,Toys,- Toys,Toys
+82,/home/betty/datasets/locount_class_samples/locount_class_samples/Toys/000916_Children Toys_count_10.jpg,Toys,- Toys,Toys
+83,/home/betty/datasets/locount_class_samples/locount_class_samples/Toys/000916_Children Toys_count_6.jpg,Toys,- Toys,Toys
+84,/home/betty/datasets/locount_class_samples/locount_class_samples/Toys/001282_Baby Toys_count_7.jpg,Toys,- Toys,Toys
+85,/home/betty/datasets/locount_class_samples/locount_class_samples/Toys/000955_Baby Toys_count_5.jpg,Toys,- Toys,Toys
+86,/home/betty/datasets/locount_class_samples/locount_class_samples/Toys/001282_Baby Toys_count_10.jpg,Toys,- Toys,Toys
+89,/home/betty/datasets/locount_class_samples/locount_class_samples/Toys/000955_Baby Toys_count_6.jpg,Toys,- Toys,Toys
+91,/home/betty/datasets/locount_class_samples/locount_class_samples/Toys/000916_Children Toys_count_7.jpg,Toys,- Toys,Toys
+108,/home/betty/datasets/locount_class_samples/locount_class_samples/Carbonated drinks/000014_Carbonated drinks_count_10.jpg,Carbonated drinks,- Carbonated drinks,Carbonated drinks
+120,/home/betty/datasets/locount_class_samples/locount_class_samples/Juicer/001094_Juicer_count_1.jpg,Juicer,- Juicer,Juicer
+121,/home/betty/datasets/locount_class_samples/locount_class_samples/Juicer/001646_Juicer_count_9.jpg,Juicer,- Juicer,Juicer
+124,/home/betty/datasets/locount_class_samples/locount_class_samples/Juicer/001094_Juicer_count_4.jpg,Juicer,- Juicer,Juicer
+126,/home/betty/datasets/locount_class_samples/locount_class_samples/Juicer/001646_Juicer_count_7.jpg,Juicer,- Juicer,Juicer
+127,/home/betty/datasets/locount_class_samples/locount_class_samples/Juicer/001646_Juicer_count_8.jpg,Juicer,- Juicer,Juicer
+133,/home/betty/datasets/locount_class_samples/locount_class_samples/Juicer/001642_Juicer_count_6.jpg,Juicer,- Juicer,Juicer
+134,/home/betty/datasets/locount_class_samples/locount_class_samples/Juicer/001094_Juicer_count_2.jpg,Juicer,- Juicer,Juicer
+135,/home/betty/datasets/locount_class_samples/locount_class_samples/Juicer/001094_Juicer_count_3.jpg,Juicer,- Juicer,Juicer
+149,/home/betty/datasets/locount_class_samples/locount_class_samples/Storage bottle/000292_Storage bottle_count_4.jpg,Storage bottle,- Storage bottle,Storage bottle
+194,/home/betty/datasets/locount_class_samples/locount_class_samples/Storage box/000010_Storage box_count_9.jpg,Storage box,- Storage box,Storage box
+196,/home/betty/datasets/locount_class_samples/locount_class_samples/Storage box/000010_Storage box_count_7.jpg,Storage box,- Storage box,Storage box
+197,/home/betty/datasets/locount_class_samples/locount_class_samples/Storage box/000010_Storage box_count_5.jpg,Storage box,- Storage box,Storage box
+215,/home/betty/datasets/locount_class_samples/locount_class_samples/Shampoo/000053_Shampoo_count_8.jpg,Shampoo,- Shampoo,Shampoo
+217,/home/betty/datasets/locount_class_samples/locount_class_samples/Hair drier/001010_Hair drier_count_7.jpg,Hair drier,- Hair drier,Hair drier
+257,/home/betty/datasets/locount_class_samples/locount_class_samples/Flour/000021_Flour_count_1.jpg,Flour,- Flour,Flour
+258,/home/betty/datasets/locount_class_samples/locount_class_samples/Flour/000021_Flour_count_3.jpg,Flour,- Flour,Flour
+262,/home/betty/datasets/locount_class_samples/locount_class_samples/Flour/000021_Flour_count_8.jpg,Flour,- Flour,Flour
+264,/home/betty/datasets/locount_class_samples/locount_class_samples/Electric Hot pot/002723_Electric Hot pot_count_9.jpg,Electric Hot pot,- Electric Hot pot,Electric Hot pot
+269,/home/betty/datasets/locount_class_samples/locount_class_samples/Electric Hot pot/001660_Electric Hot pot_count_4.jpg,Electric Hot pot,- Electric Hot pot,Electric Hot pot
+291,/home/betty/datasets/locount_class_samples/locount_class_samples/Knapsack/000980_Knapsack_count_2.jpg,Knapsack,- Knapsack,Knapsack
+294,/home/betty/datasets/locount_class_samples/locount_class_samples/Electric iron/000885_Electric iron_count_6.jpg,Electric iron,- Electric iron,Electric iron
+296,/home/betty/datasets/locount_class_samples/locount_class_samples/Electric iron/000885_Electric iron_count_4.jpg,Electric iron,- Electric iron,Electric iron
+326,/home/betty/datasets/locount_class_samples/locount_class_samples/Sesame paste/001563_Sesame paste_count_7.jpg,Sesame paste,- Sesame paste,Sesame paste
+331,/home/betty/datasets/locount_class_samples/locount_class_samples/Sesame paste/000373_Sesame paste_count_3.jpg,Sesame paste,- Sesame paste,Sesame paste
+340,/home/betty/datasets/locount_class_samples/locount_class_samples/Disposable cups/000027_Disposable cups_count_3.jpg,Disposable cups,- Disposable cups,Disposable cups
+341,/home/betty/datasets/locount_class_samples/locount_class_samples/Disposable cups/000027_Disposable cups_count_4.jpg,Disposable cups,- Disposable cups,Disposable cups
+342,/home/betty/datasets/locount_class_samples/locount_class_samples/Disposable cups/000027_Disposable cups_count_5.jpg,Disposable cups,- Disposable cups,Disposable cups
+343,/home/betty/datasets/locount_class_samples/locount_class_samples/Disposable cups/000058_Disposable cups_count_9.jpg,Disposable cups,- Disposable cups,Disposable cups
+344,/home/betty/datasets/locount_class_samples/locount_class_samples/Disposable cups/000058_Disposable cups_count_10.jpg,Disposable cups,- Disposable cups,Disposable cups
+345,/home/betty/datasets/locount_class_samples/locount_class_samples/Disposable cups/000027_Disposable cups_count_7.jpg,Disposable cups,- Disposable cups,Disposable cups
+346,/home/betty/datasets/locount_class_samples/locount_class_samples/Disposable cups/000058_Disposable cups_count_8.jpg,Disposable cups,- Disposable cups,Disposable cups
+347,/home/betty/datasets/locount_class_samples/locount_class_samples/Desk lamp/000281_Desk lamp_count_9.jpg,Desk lamp,- Desk lamp,Desk lamp
+348,/home/betty/datasets/locount_class_samples/locount_class_samples/Desk lamp/000209_Desk lamp_count_2.jpg,Desk lamp,- Desk lamp,Desk lamp
+349,/home/betty/datasets/locount_class_samples/locount_class_samples/Desk lamp/000281_Desk lamp_count_5.jpg,Desk lamp,- Desk lamp,Desk lamp
+350,/home/betty/datasets/locount_class_samples/locount_class_samples/Desk lamp/000209_Desk lamp_count_1.jpg,Desk lamp,- Desk lamp,Desk lamp
+351,/home/betty/datasets/locount_class_samples/locount_class_samples/Desk lamp/000209_Desk lamp_count_4.jpg,Desk lamp,- Desk lamp,Desk lamp
+352,/home/betty/datasets/locount_class_samples/locount_class_samples/Desk lamp/000281_Desk lamp_count_6.jpg,Desk lamp,- Desk lamp,Desk lamp
+353,/home/betty/datasets/locount_class_samples/locount_class_samples/Desk lamp/000209_Desk lamp_count_3.jpg,Desk lamp,- Desk lamp,Desk lamp
+354,/home/betty/datasets/locount_class_samples/locount_class_samples/Desk lamp/000281_Desk lamp_count_10.jpg,Desk lamp,- Desk lamp,Desk lamp
+355,/home/betty/datasets/locount_class_samples/locount_class_samples/Desk lamp/000281_Desk lamp_count_8.jpg,Desk lamp,- Desk lamp,Desk lamp
+397,/home/betty/datasets/locount_class_samples/locount_class_samples/Rice cooker/000322_Rice cooker_count_4.jpg,Rice cooker,- Rice cooker,Rice cooker
+399,/home/betty/datasets/locount_class_samples/locount_class_samples/Oats/000163_Oats_count_4.jpg,Oats,- Oats,Oats
+488,/home/betty/datasets/locount_class_samples/locount_class_samples/Facial mask/000135_Facial mask_count_9.jpg,Facial mask,- Facial mask,Facial mask
+491,/home/betty/datasets/locount_class_samples/locount_class_samples/Facial mask/000135_Facial mask_count_6.jpg,Facial mask,- Facial mask,Facial mask
+508,/home/betty/datasets/locount_class_samples/locount_class_samples/Makeup tools/001608_Makeup tools_count_5.jpg,Makeup tools,- Makeup tools,Makeup tools
+511,/home/betty/datasets/locount_class_samples/locount_class_samples/Makeup tools/001608_Makeup tools_count_1.jpg,Makeup tools,- Makeup tools,Makeup tools
+514,/home/betty/datasets/locount_class_samples/locount_class_samples/Makeup tools/001608_Makeup tools_count_4.jpg,Makeup tools,- Makeup tools,Makeup tools
+517,/home/betty/datasets/locount_class_samples/locount_class_samples/Makeup tools/001608_Makeup tools_count_6.jpg,Makeup tools,- Makeup tools,Makeup tools
+518,/home/betty/datasets/locount_class_samples/locount_class_samples/Can/000537_Can_count_4.jpg,Can,- Can,Can
+519,/home/betty/datasets/locount_class_samples/locount_class_samples/Can/000537_Can_count_8.jpg,Can,- Can,Can
+520,/home/betty/datasets/locount_class_samples/locount_class_samples/Can/000537_Can_count_5.jpg,Can,- Can,Can
+521,/home/betty/datasets/locount_class_samples/locount_class_samples/Can/000537_Can_count_2.jpg,Can,- Can,Can
+522,/home/betty/datasets/locount_class_samples/locount_class_samples/Can/000537_Can_count_3.jpg,Can,- Can,Can
+523,/home/betty/datasets/locount_class_samples/locount_class_samples/Can/000537_Can_count_6.jpg,Can,- Can,Can
+524,/home/betty/datasets/locount_class_samples/locount_class_samples/Can/000537_Can_count_1.jpg,Can,- Can,Can
+525,/home/betty/datasets/locount_class_samples/locount_class_samples/Can/000537_Can_count_10.jpg,Can,- Can,Can
+529,/home/betty/datasets/locount_class_samples/locount_class_samples/Spoon/002714_Spoon_count_2.jpg,Spoon,- Spoon,Spoon
+530,/home/betty/datasets/locount_class_samples/locount_class_samples/Spoon/002714_Spoon_count_4.jpg,Spoon,- Spoon,Spoon
+532,/home/betty/datasets/locount_class_samples/locount_class_samples/Spoon/002714_Spoon_count_3.jpg,Spoon,- Spoon,Spoon
+534,/home/betty/datasets/locount_class_samples/locount_class_samples/Spoon/002714_Spoon_count_7.jpg,Spoon,- Spoon,Spoon
+571,/home/betty/datasets/locount_class_samples/locount_class_samples/Soup ladle/000110_Soup ladle_count_5.jpg,Soup ladle,- Soup ladle,Soup ladle
+588,/home/betty/datasets/locount_class_samples/locount_class_samples/Microwave Oven/000352_Microwave Oven_count_5.jpg,Microwave Oven,- Microwave Oven,Microwave Oven
+589,/home/betty/datasets/locount_class_samples/locount_class_samples/Microwave Oven/000218_Microwave Oven_count_4.jpg,Microwave Oven,- Microwave Oven,Microwave Oven
+622,/home/betty/datasets/locount_class_samples/locount_class_samples/Soap/004661_Soap_count_2.jpg,Soap,- Soap,Soap
+627,/home/betty/datasets/locount_class_samples/locount_class_samples/Fish tofu/000080_Fish tofu_count_4.jpg,Fish tofu,- Fish tofu,Fish tofu
+633,/home/betty/datasets/locount_class_samples/locount_class_samples/Fish tofu/000088_Fish tofu_count_5.jpg,Fish tofu,- Fish tofu,Fish tofu
+660,/home/betty/datasets/locount_class_samples/locount_class_samples/Skate/000025_Skate_count_4.jpg,Skate,- Skate,Skate
+662,/home/betty/datasets/locount_class_samples/locount_class_samples/Skate/000567_Skate_count_6.jpg,Skate,- Skate,Skate
+676,/home/betty/datasets/locount_class_samples/locount_class_samples/Hair dye/000042_Hair dye_count_3.jpg,Hair dye,- Hair dye,Hair dye
+682,/home/betty/datasets/locount_class_samples/locount_class_samples/Shoes/000002_Adult shoes_count_1.jpg,Shoes,- Shoes,Shoes
+686,/home/betty/datasets/locount_class_samples/locount_class_samples/Shoes/003429_Children shoes_count_4.jpg,Shoes,- Shoes,Shoes
+689,/home/betty/datasets/locount_class_samples/locount_class_samples/Shoes/000002_Adult shoes_count_7.jpg,Shoes,- Shoes,Shoes
+691,/home/betty/datasets/locount_class_samples/locount_class_samples/Shoes/000002_Adult shoes_count_4.jpg,Shoes,- Shoes,Shoes
+694,/home/betty/datasets/locount_class_samples/locount_class_samples/Shoes/003429_Children shoes_count_9.jpg,Shoes,- Shoes,Shoes
+706,/home/betty/datasets/locount_class_samples/locount_class_samples/Hat/000545_Children hats_count_3.jpg,Hat,- Hat,Hat
+710,/home/betty/datasets/locount_class_samples/locount_class_samples/Hat/000545_Children hats_count_4.jpg,Hat,- Hat,Hat
+716,/home/betty/datasets/locount_class_samples/locount_class_samples/Hat/000545_Children hats_count_1.jpg,Hat,- Hat,Hat
+719,/home/betty/datasets/locount_class_samples/locount_class_samples/Hat/000545_Children hats_count_6.jpg,Hat,- Hat,Hat
+725,/home/betty/datasets/locount_class_samples/locount_class_samples/Rubber ball/005036_Rubber ball_count_3.jpg,Rubber ball,- Rubber ball,Rubber ball
+748,/home/betty/datasets/locount_class_samples/locount_class_samples/Hair conditioner/000295_Hair conditioner_count_6.jpg,Hair conditioner,- Hair conditioner,Hair conditioner
+779,/home/betty/datasets/locount_class_samples/locount_class_samples/Basketball/000074_Basketball_count_9.jpg,Basketball,- Basketball,Basketball
+788,/home/betty/datasets/locount_class_samples/locount_class_samples/Diapers/000075_Adult Diapers_count_7.jpg,Diapers,- Diapers,Diapers
+789,/home/betty/datasets/locount_class_samples/locount_class_samples/Diapers/000663_Adult Diapers_count_10.jpg,Diapers,- Diapers,Diapers
+791,/home/betty/datasets/locount_class_samples/locount_class_samples/Diapers/000075_Adult Diapers_count_2.jpg,Diapers,- Diapers,Diapers
+802,/home/betty/datasets/locount_class_samples/locount_class_samples/Socks/001968_Children Socks_count_8.jpg,Socks,- Socks,Socks
+805,/home/betty/datasets/locount_class_samples/locount_class_samples/Socks/001968_Children Socks_count_6.jpg,Socks,- Socks,Socks
+811,/home/betty/datasets/locount_class_samples/locount_class_samples/Socks/000084_Adult socks_count_4.jpg,Socks,- Socks,Socks
+816,/home/betty/datasets/locount_class_samples/locount_class_samples/Socks/001932_Children Socks_count_4.jpg,Socks,- Socks,Socks
+824,/home/betty/datasets/locount_class_samples/locount_class_samples/Cake/001972_Cake_count_4.jpg,Cake,- Cake,Cake
+832,/home/betty/datasets/locount_class_samples/locount_class_samples/Chopping block/002514_Chopping block_count_10.jpg,Chopping block,- Chopping block,Chopping block
+833,/home/betty/datasets/locount_class_samples/locount_class_samples/Chopping block/002119_Chopping block_count_5.jpg,Chopping block,- Chopping block,Chopping block
+835,/home/betty/datasets/locount_class_samples/locount_class_samples/Chopping block/002119_Chopping block_count_8.jpg,Chopping block,- Chopping block,Chopping block
+845,/home/betty/datasets/locount_class_samples/locount_class_samples/Stool/000068_Stool_count_4.jpg,Stool,- Stool,Stool
+846,/home/betty/datasets/locount_class_samples/locount_class_samples/Stool/000024_Stool_count_3.jpg,Stool,- Stool,Stool
+849,/home/betty/datasets/locount_class_samples/locount_class_samples/Stool/000024_Stool_count_1.jpg,Stool,- Stool,Stool
+850,/home/betty/datasets/locount_class_samples/locount_class_samples/Stool/000068_Stool_count_8.jpg,Stool,- Stool,Stool
+861,/home/betty/datasets/locount_class_samples/locount_class_samples/Chocolates/000111_Chocolates_count_2.jpg,Chocolates,- Chocolates,Chocolates
+863,/home/betty/datasets/locount_class_samples/locount_class_samples/Chocolates/000111_Chocolates_count_5.jpg,Chocolates,- Chocolates,Chocolates
+864,/home/betty/datasets/locount_class_samples/locount_class_samples/Chocolates/000111_Chocolates_count_4.jpg,Chocolates,- Chocolates,Chocolates
+866,/home/betty/datasets/locount_class_samples/locount_class_samples/Soymilk/002610_Soymilk_count_6.jpg,Soymilk,- Soymilk,Soymilk
+872,/home/betty/datasets/locount_class_samples/locount_class_samples/Soymilk/002610_Soymilk_count_8.jpg,Soymilk,- Soymilk,Soymilk
+875,/home/betty/datasets/locount_class_samples/locount_class_samples/Badminton/000678_Badminton_count_4.jpg,Badminton,- Badminton,Badminton
+876,/home/betty/datasets/locount_class_samples/locount_class_samples/Badminton/000897_Badminton_count_9.jpg,Badminton,- Badminton,Badminton
+877,/home/betty/datasets/locount_class_samples/locount_class_samples/Badminton/000678_Badminton_count_3.jpg,Badminton,- Badminton,Badminton
+878,/home/betty/datasets/locount_class_samples/locount_class_samples/Badminton/000678_Badminton_count_2.jpg,Badminton,- Badminton,Badminton
+879,/home/betty/datasets/locount_class_samples/locount_class_samples/Badminton/001024_Badminton_count_10.jpg,Badminton,- Badminton,Badminton
+880,/home/betty/datasets/locount_class_samples/locount_class_samples/Badminton/000897_Badminton_count_6.jpg,Badminton,- Badminton,Badminton
+892,/home/betty/datasets/locount_class_samples/locount_class_samples/Trash/000030_Trash_count_9.jpg,Trash,- Trash,Trash
+906,/home/betty/datasets/locount_class_samples/locount_class_samples/Pie/000098_Pie_count_4.jpg,Pie,- Pie,Pie
+913,/home/betty/datasets/locount_class_samples/locount_class_samples/Draw bar box/000410_Draw bar box_count_6.jpg,Draw bar box,- Draw bar box,Draw bar box
+914,/home/betty/datasets/locount_class_samples/locount_class_samples/Draw bar box/000708_Draw bar box_count_8.jpg,Draw bar box,- Draw bar box,Draw bar box
+915,/home/betty/datasets/locount_class_samples/locount_class_samples/Draw bar box/000243_Draw bar box_count_3.jpg,Draw bar box,- Draw bar box,Draw bar box
+916,/home/betty/datasets/locount_class_samples/locount_class_samples/Draw bar box/000708_Draw bar box_count_9.jpg,Draw bar box,- Draw bar box,Draw bar box
+917,/home/betty/datasets/locount_class_samples/locount_class_samples/Draw bar box/000243_Draw bar box_count_2.jpg,Draw bar box,- Draw bar box,Draw bar box
+918,/home/betty/datasets/locount_class_samples/locount_class_samples/Draw bar box/000410_Draw bar box_count_4.jpg,Draw bar box,- Draw bar box,Draw bar box
+919,/home/betty/datasets/locount_class_samples/locount_class_samples/Draw bar box/000410_Draw bar box_count_7.jpg,Draw bar box,- Draw bar box,Draw bar box
+920,/home/betty/datasets/locount_class_samples/locount_class_samples/Draw bar box/000410_Draw bar box_count_5.jpg,Draw bar box,- Draw bar box,Draw bar box
+921,/home/betty/datasets/locount_class_samples/locount_class_samples/Draw bar box/000243_Draw bar box_count_1.jpg,Draw bar box,- Draw bar box,Draw bar box
+922,/home/betty/datasets/locount_class_samples/locount_class_samples/Draw bar box/000708_Draw bar box_count_10.jpg,Draw bar box,- Draw bar box,Draw bar box
+963,/home/betty/datasets/locount_class_samples/locount_class_samples/Coffee/000016_Coffee_count_1.jpg,Coffee,- Coffee,Coffee
+967,/home/betty/datasets/locount_class_samples/locount_class_samples/Coffee/000016_Coffee_count_10.jpg,Coffee,- Coffee,Coffee
+987,/home/betty/datasets/locount_class_samples/locount_class_samples/Pot shovel/000110_Pot shovel_count_10.jpg,Pot shovel,- Pot shovel,Pot shovel
+991,/home/betty/datasets/locount_class_samples/locount_class_samples/Pot shovel/000110_Pot shovel_count_3.jpg,Pot shovel,- Pot shovel,Pot shovel
+992,/home/betty/datasets/locount_class_samples/locount_class_samples/Pot shovel/000110_Pot shovel_count_6.jpg,Pot shovel,- Pot shovel,Pot shovel
+995,/home/betty/datasets/locount_class_samples/locount_class_samples/Electromagnetic furnace/000525_Electromagnetic furnace_count_5.jpg,Electromagnetic furnace,- Electromagnetic furnace,Electromagnetic furnace
+997,/home/betty/datasets/locount_class_samples/locount_class_samples/Electromagnetic furnace/000525_Electromagnetic furnace_count_6.jpg,Electromagnetic furnace,- Electromagnetic furnace,Electromagnetic furnace
+998,/home/betty/datasets/locount_class_samples/locount_class_samples/Electromagnetic furnace/000566_Electromagnetic furnace_count_10.jpg,Electromagnetic furnace,- Electromagnetic furnace,Electromagnetic furnace
+999,/home/betty/datasets/locount_class_samples/locount_class_samples/Electromagnetic furnace/000525_Electromagnetic furnace_count_7.jpg,Electromagnetic furnace,- Electromagnetic furnace,Electromagnetic furnace
+1000,/home/betty/datasets/locount_class_samples/locount_class_samples/Electromagnetic furnace/000366_Electromagnetic furnace_count_1.jpg,Electromagnetic furnace,- Electromagnetic furnace,Electromagnetic furnace
+1001,/home/betty/datasets/locount_class_samples/locount_class_samples/Electromagnetic furnace/000525_Electromagnetic furnace_count_8.jpg,Electromagnetic furnace,- Electromagnetic furnace,Electromagnetic furnace

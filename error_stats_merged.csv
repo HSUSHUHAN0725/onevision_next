@@ -1,0 +1,292 @@
+GT,錯誤輸出,錯誤次數
+Juicer,Unknown,16
+Socks,Diapers,12
+Toys,Unknown,12
+Underwear,Diapers,12
+Air conditioning fan,Air conditioner,10
+Baby handkerchiefs,Diapers,10
+Baby washing and nursing supplie,Diapers,10
+Bath lotion,Milk powder,10
+Chocolates,Unknown,10
+Draw bar box,Unknown,10
+Dried fish,Diapers,10
+Electric steaming pan,Cooking wine,10
+Ginger Tea,Diapers,10
+Hair drier,Unknown,10
+Hot strips,Diapers,10
+Jacket,Unknown,10
+Knapsack,Unknown,10
+Quick-frozen Tangyuan,Diapers,10
+Soap,Diapers,10
+Television,Unknown,10
+Toothpaste,Diapers,10
+Coat hanger,Unknown,9
+Cocktail,Unknown,9
+Electric Hot pot,Cooking wine,9
+Guozhen,Diapers,9
+Herbal tea,Unknown,9
+Knives,Unknown,9
+Makeup tools,Diapers,9
+Mixed congee,Milk powder,9
+Red wine,Unknown,9
+Skin care set,Milk powder,9
+Soup ladle,Cooking wine,9
+Storage box,Unknown,9
+Baby tableware,Diapers,8
+Disposable cups,Unknown,8
+Dried beans,Diapers,8
+Dried meat,Diapers,8
+Electric frying pan,Cooking wine,8
+Electric iron,Unknown,8
+Fish tofu,Diapers,8
+Hair gel,Diapers,8
+Ice cream,Unknown,8
+Lingerie,Diapers,8
+Lotus root flour,Milk powder,8
+Rice cooker,Cooking wine,8
+Stool,Unknown,8
+Basin,Bowl,7
+Carbonated drinks,Unknown,7
+Care Kit,Milk powder,7
+Chopping block,Unknown,7
+Disposable bag,Diapers,7
+Electric fan,Unknown,7
+Electromagnetic furnace,Electric Hot pot,7
+Facial Cleanser,Unknown,7
+Fresh-keeping film,Diapers,7
+Noodle,Diapers,7
+Pasta,Diapers,7
+Quick-frozen Wonton,Diapers,7
+Sesame paste,Diapers,7
+Tampon,Unknown,7
+Toothbrush,Diapers,7
+Underwear,Unknown,7
+Chewing gum,Unknown,6
+Cotton swab,Milk powder,6
+Food box,Diapers,6
+Football,Shoes,6
+Hair dye,Diapers,6
+Instant noodles,Diapers,6
+Mouth wash,Diapers,6
+Potato chips,Unknown,6
+Razor,Diapers,6
+Rice,Diapers,6
+Socket,Unknown,6
+Spoon,Cooking wine,6
+Sports cup,Unknown,6
+Tea,Diapers,6
+Tea beverage,Diapers,6
+Vinegar,Unknown,6
+Baby Furniture,Diapers,5
+Band aid,Diapers,5
+Band aid,Milk powder,5
+Cake,Unknown,5
+Comb,Diapers,5
+Comb,Unknown,5
+Emulsion,Milk powder,5
+Flour,Diapers,5
+Forks,Toys,5
+Hair conditioner,Shampoo,5
+Oats,Unknown,5
+Pot shovel,Diapers,5
+Quick-frozen dumplings,Diapers,5
+Sour Plum Soup,Unknown,5
+Soymilk,Diapers,5
+Trash,Unknown,5
+Trousers,Unknown,5
+Walnut powder,Diapers,5
+Walnut powder,Milk powder,5
+Badminton,Unknown,4
+Biscuits,Diapers,4
+Bowl,Dinner plate,4
+Cake,Diapers,4
+Chewing gum,Diapers,4
+Chopsticks,Diapers,4
+Cutter,Diapers,4
+Cutter,Unknown,4
+Dairy,Milk powder,4
+Dairy,Unknown,4
+Facial mask,Diapers,4
+Facial mask,Unknown,4
+Football,Unknown,4
+Forks,Unknown,4
+Notebook,Unknown,4
+Pen,Diapers,4
+Pen,Unknown,4
+Pencil case,Diapers,4
+Pencil case,Unknown,4
+Pie,Diapers,4
+Pot shovel,Cooking wine,4
+Potato chips,Diapers,4
+Razor,Unknown,4
+Rubber ball,Unknown,4
+Sauce,Unknown,4
+Soy sauce,Dairy,4
+Soymilk,Unknown,4
+Storage bottle,Milk powder,4
+Storage bottle,Unknown,4
+Thermos bottle,Diapers,4
+Baby Furniture,Milk powder,3
+Carbonated drinks,Diapers,3
+Care Kit,Unknown,3
+Chopping block,Diapers,3
+Cooking wine,Diapers,3
+Cooking wine,Milk powder,3
+Cooking wine,Unknown,3
+Cotton swab,Diapers,3
+Disposable bag,Unknown,3
+Electric kettle,Unknown,3
+Emulsion,Unknown,3
+Facial Cleanser,Diapers,3
+Hair conditioner,Diapers,3
+Hats,Diapers,3
+Hats,Unknown,3
+Instant noodles,Unknown,3
+Liquor and Spirits,Unknown,3
+Milk powder,Diapers,3
+Mouth wash,Unknown,3
+Mug,Unknown,3
+Notebook,Toys,3
+Oats,Milk powder,3
+Pie,Unknown,3
+Quick-frozen dumplings,Unknown,3
+Rice,Milk powder,3
+Sauce,Milk powder,3
+Socket,Diapers,3
+Sour Plum Soup,Diapers,3
+Soy sauce,Diapers,3
+Spoon,Diapers,3
+Tampon,Diapers,3
+Tea beverage,Unknown,3
+Trash,Mug,3
+Trousers,Diapers,3
+Baby tableware,Unknown,2
+Badminton,Shoes,2
+Basin,Washing machine,2
+Bedding set,Diapers,2
+Biscuits,Unknown,2
+Dairy,Diapers,2
+Dinner plate,Unknown,2
+Dinner plate,Washing machine,2
+Disposable cups,Diapers,2
+Dried beans,Unknown,2
+Dried meat,Milk powder,2
+Electric fan,Air conditioner,2
+Electric iron,Diapers,2
+Electric kettle,Air conditioner,2
+Electromagnetic furnace,Diapers,2
+Facial mask,Toys,2
+Food box,Biscuits,2
+Food box,Unknown,2
+Fresh-keeping film,Unknown,2
+Hair conditioner,Milk powder,2
+Hair dye,Toys,2
+Hair gel,Unknown,2
+Juicer,Diapers,2
+Liquor and Spirits,Dairy,2
+Liquor and Spirits,Diapers,2
+Lotus root flour,Unknown,2
+Oats,Diapers,2
+Pie,Biscuits,2
+Quick-frozen Wonton,Instant noodles,2
+Quick-frozen dumplings,Milk powder,2
+Rubber ball,Basketball,2
+Rubber ball,Sports cup,2
+Rubber ball,Toys,2
+Sesame paste,Unknown,2
+Skate,Shoes,2
+Sour Plum Soup,Milk powder,2
+Soy sauce,Unknown,2
+Sports cup,Diapers,2
+Stool,Toys,2
+Thermos bottle,Unknown,2
+Trash,Storage box,2
+Trousers,Socks,2
+Vinegar,Liquor and Spirits,2
+Baby Furniture,Bath lotion,1
+Baby Furniture,Unknown,1
+Basin,Unknown,1
+Basketball,Unknown,1
+Bedding set,Baby Furniture,1
+Biscuits,Milk powder,1
+Bowl,Mug,1
+Cake,Biscuits,1
+Coat hanger,Diapers,1
+Cocktail,Diapers,1
+Coffee,Unknown,1
+Cooking wine,Shoes,1
+Cotton swab,Unknown,1
+Cutter,Can,1
+Cutter,Pen,1
+Desk lamp,Diapers,1
+Diapers,Milk powder,1
+Electric Hot pot,Unknown,1
+Electric fan,Diapers,1
+Electric frying pan,Shoes,1
+Electric frying pan,Unknown,1
+Electric kettle,Coffee,1
+Electromagnetic furnace,Unknown,1
+Emulsion,Diapers,1
+Emulsion,Toys,1
+Fish tofu,Biscuits,1
+Fish tofu,Unknown,1
+Flour,Milk powder,1
+Forks,Diapers,1
+Fresh-keeping film,Milk powder,1
+Guozhen,Unknown,1
+Hair dye,Milk powder,1
+Hair dye,Unknown,1
+Hats,Shoes,1
+Herbal tea,Can,1
+Ice cream,Diapers,1
+Ice cream,Toys,1
+Knives,Diapers,1
+Lingerie,Shoes,1
+Lingerie,Unknown,1
+Makeup tools,Unknown,1
+Mixed congee,Can,1
+Mouth wash,Shoes,1
+Noodle,Milk powder,1
+Noodle,Unknown,1
+Notebook,Diapers,1
+Notebook,Milk powder,1
+Pasta,Unknown,1
+Pencil case,Shoes,1
+Pencil case,Socks,1
+Pie,Shoes,1
+Pot shovel,Spoon,1
+Quick-frozen Wonton,Unknown,1
+Red wine,Milk powder,1
+Rice,Unknown,1
+Rice cooker,Diapers,1
+Rice cooker,Unknown,1
+Sauce,Can,1
+Sauce,Diapers,1
+Sauce,Dried meat,1
+Sesame paste,Milk powder,1
+Shampoo,Diapers,1
+Shoes,Toys,1
+Shoes,Unknown,1
+Socket,Milk powder,1
+Socks,Baby carriage,1
+Soup ladle,Spoon,1
+Soy sauce,Dried meat,1
+Soymilk,Shoes,1
+Spoon,Unknown,1
+Sports cup,Milk powder,1
+Sports cup,Thermos bottle,1
+Storage bottle,Can,1
+Storage bottle,Diapers,1
+Storage box,Trash,1
+Tea,Toys,1
+Tea,Unknown,1
+Tea beverage,Milk powder,1
+Thermos bottle,Milk powder,1
+Toothbrush,Milk powder,1
+Toothbrush,Toothpaste,1
+Toothbrush,Unknown,1
+Toys,Diapers,1
+Underwear,Milk powder,1
+Vinegar,Diapers,1
+Vinegar,Milk powder,1
+Washing machine,Unknown,1

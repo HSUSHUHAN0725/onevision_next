@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode
+.vscode/
+
+# Env
+venv/
+.venv/
+env/
+ENV/
+conda-meta/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Model / HF / checkpoints
+*.pt
+*.pth
+*.bin
+*.safetensors
+checkpoints/
+weights/
+hf_cache/
+.cache/
+
+# Large model folders
+llava_onevision_qwen2_7b_ov/
+llava_onevision_qwen2_7b_ov_chat_hf/
