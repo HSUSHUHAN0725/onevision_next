@@ -1,5 +1,7 @@
 # onevision_next
-conda create -n onevision_next python=3.10 #建onevision_next這個環境
+-建onevision_next這個環境
+conda create -n onevision_next python=3.10 
+-開啟onevision_next這個環境
 conda activate onevision_next
 ## Environment
 - Python 3.10
