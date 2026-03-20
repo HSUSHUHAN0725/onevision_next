@@ -3,6 +3,14 @@
 conda create -n onevision_next python=3.10 
 -開啟onevision_next這個環境
 conda activate onevision_next
+
+## Model Download
+
+Please download the model using:
+
+```bash
+python download_hf_chat.py
+
 ## Environment
 - Python 3.10
 - torch 2.7.0+cu128
@@ -22,3 +30,6 @@ conda activate onevision_next
 
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
 pip install transformers accelerate bitsandbytes pandas numpy scikit-learn pillow tqdm sentencepiece
+
+#70%的是這個
+-hierarchical_classification.py
